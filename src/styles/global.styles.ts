@@ -24,7 +24,6 @@ const GlobalStyle = createGlobalStyle`
       font-family: ${theme.font.family};
       font-size: 62.5%;
       scroll-behavior: smooth;
-      height: 100%;
     }
 
     body {

@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`My Button FocusInput matches snapshot 1`] = `
+<button
+  data-testid="btn-1"
+>
+  ok
+</button>
+`;
